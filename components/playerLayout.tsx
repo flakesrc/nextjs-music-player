@@ -1,12 +1,5 @@
 import { Box } from "@chakra-ui/layout";
 import Sidebar from "./sidebar";
-import {
-  MdHome,
-  MdSearch,
-  MdLibraryMusic,
-  MdPlaylistAdd,
-  MdFavorite,
-} from "react-icons/md";
 
 const PlayerLayout = ({ children }) => {
   return (
