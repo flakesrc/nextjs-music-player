@@ -1,10 +1,9 @@
-# Nextjs Music Player
+# WIP - Nextjs Music Player
 
 A Client App like spotify.
 
 This is a project from frontendmasters [Build a Fullstack App from Scratch](https://frontendmasters.com/courses/fullstack-app-next/) course.
 
-In development.
 
 <hr />
 
